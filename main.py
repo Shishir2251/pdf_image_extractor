@@ -16,6 +16,6 @@ def extract_text(file_path: str) -> str:
 
 
 if __name__ == "__main__":
-    file_path = "sample.pdf"  # change this
+    file_path = "C:/Users/shish/OneDrive/Pictures/Task 2 .png"  # change this
     text = extract_text(file_path)
     print(text)
